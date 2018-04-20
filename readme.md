@@ -2,3 +2,6 @@
 This is for test. 
 k-means clustering with tensorflow.
 k = 2-4 classes 
+
+
+The data comes from ivs lab
